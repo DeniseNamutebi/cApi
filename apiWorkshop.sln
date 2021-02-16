@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiWorkshop", "apiWorkshop\apiWorkshop.csproj", "{725FDF59-6BBF-4687-9A86-CB701FD58D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725FDF59-6BBF-4687-9A86-CB701FD58D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725FDF59-6BBF-4687-9A86-CB701FD58D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725FDF59-6BBF-4687-9A86-CB701FD58D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725FDF59-6BBF-4687-9A86-CB701FD58D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD84D78-3A0E-4B1C-BD44-94A1E8CF2566}
+	EndGlobalSection
+EndGlobal
